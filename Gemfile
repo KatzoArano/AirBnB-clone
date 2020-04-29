@@ -24,6 +24,7 @@ gem 'jquery-ui-rails'
 # gem 'bcrypt', '~> 3.1.7'
 #bootstrap
 gem 'bootstrap-sass', '~> 3.4.1'
+gem 'bootstrap', '~> 4.4.1'
 #devise
 gem 'devise' 
 gem 'devise-i18n'
